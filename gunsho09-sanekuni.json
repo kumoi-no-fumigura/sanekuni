@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/sanekuni",
  "yomi": "さきのだいなごんさねくにきょうしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安末期",
+  "author": "藤原実国（1140〜1183）",
+  "desc": "権大納言藤原実国の家集。四季の題詠や、皇后宮での歌会の歌を収める。"
+ },
  "editions": [
   {
    "pid": "1879517",
@@ -720,6 +725,6 @@
   "poems": 60,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
